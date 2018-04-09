@@ -21,7 +21,7 @@
         <!--<activity android:name="com.soundcloud.android.crop.CropImageActivity" />-->
         <provider
             android:name="android.support.v4.content.FileProvider"
-            android:authorities="photopicktalk.provider"
+            android:authorities="${applicationId}.provider"
             android:exported="false"
             android:grantUriPermissions="true"
             >
