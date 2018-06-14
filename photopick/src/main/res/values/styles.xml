@@ -13,8 +13,8 @@
     </style>
 
     <style name="DailDialogAnimation" parent="android:Animation">
-        <item name="@android:windowEnterAnimation">@anim/dail_dialog_enter_anim</item>
-        <item name="@android:windowExitAnimation">@anim/dail_dialog_exit_anim</item>
+        <item name="android:windowEnterAnimation">@anim/dail_dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/dail_dialog_exit_anim</item>
     </style>
 
     <!-- Base application theme. -->
